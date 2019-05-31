@@ -1,4 +1,4 @@
-# Lab-6 - Build, Train, Save, Deploy, and Test a Neural Network Model using Watson Studio
+# Lab-4 - Build, Train, Save, Deploy, and Test a Neural Network Model using Watson Studio
 
 ## Introduction:
 
